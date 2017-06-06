@@ -2,7 +2,7 @@
 
 **Quantidade de alunos por grupo: 3**
 
-**Data: 20/06/2017**
+**Data: 27/06/2017**
 
 **Valor: 7 pontos**
 
