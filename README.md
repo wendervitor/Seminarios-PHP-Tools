@@ -8,7 +8,7 @@
 
 Esse seminários tem como objetivo apresentar aos colegas de turma as ferramentas existentes para o desenvolvimento de sistemas web, com foco em PHP. O seu grupo deverá escolher um dos seguintes temas abaixo:
 
-- Gerenciador de Dependências ([Composer](https://getcomposer.org/))
+- Gerenciador de Dependências ([Composer](https://getcomposer.org/)) -> **Ananda, Carol e Clarisse**
 - Debugging ([PHP Debug Bar](http://phpdebugbar.com/))
 - Bibliotecas de Teste ([PHPUnit](https://phpunit.de/))
 - Mockup de dados ([Faker](https://github.com/fzaninotto/Faker)) -> **Gustavo, Eduardo e Lucas Macedo**
